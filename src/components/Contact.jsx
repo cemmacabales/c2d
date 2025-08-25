@@ -467,7 +467,7 @@ const Contact = () => {
               </div>
               <div className="contact-text">
                 <h4>Email</h4>
-                <p>c2dwebsolutions@gmail.com</p>
+                <p>createcodedevelop@gmail.com</p>
               </div>
             </div>
             
@@ -477,7 +477,7 @@ const Contact = () => {
               </div>
               <div className="contact-text">
                 <h4>Phone</h4>
-                <p>+63 912 345 6789</p>
+                <p>+63 966 267 8981</p>
               </div>
             </div>
             
@@ -487,7 +487,7 @@ const Contact = () => {
               </div>
               <div className="contact-text">
                 <h4>Instagram</h4>
-                <p>@c2dwebsolutions</p>
+                <p>@c2d.tech</p>
               </div>
             </div>
           </div>
