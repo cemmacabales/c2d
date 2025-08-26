@@ -17,7 +17,7 @@ const About = () => {
       handle: "@flatearther666",
       borderColor: "#ffffff",
       gradient: "linear-gradient(145deg,rgb(80, 83, 82), #000)",
-      url: "https://cozy-gnome-1fe53d.netlify.app/"
+      url: "https://ynikko-aguas.netlify.app"
     },
     {
       image: carlImage,
@@ -26,7 +26,7 @@ const About = () => {
       handle: "@clivebixby0",
       borderColor: "#ffffff",
       gradient: "linear-gradient(180deg,rgb(80, 83, 82), #000)",
-      url: "https://relaxed-salamander-f57d36.netlify.app/?fbclid=IwY2xjawMMXfhleHRuA2FlbQIxMQABHjIPIjMuvp4JbXHa-Ssbf6ivEcKCd1tou_8iA6EI6ZKFVbZdTG-Cl38ZJ0-u_aem_pnVxFrNEs2ELnjtuEHuVkg"
+      url: "https://cemmacabales.netlify.app"
     }
   ];
 
