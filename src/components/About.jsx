@@ -12,7 +12,7 @@ const About = () => {
   const teamItems = [
     {
       image: aguasImage,
-      title: "Yñikko Arzee Neo Aguas",
+      title: "Yñikko Aguas",
       subtitle: "Developer",
       handle: "@flatearther666",
       borderColor: "#ffffff",
@@ -21,7 +21,7 @@ const About = () => {
     },
     {
       image: carlImage,
-      title: "Carl Emmanuel Macabales",
+      title: "Carl Macabales",
       subtitle: "Developer",
       handle: "@clivebixby0",
       borderColor: "#ffffff",

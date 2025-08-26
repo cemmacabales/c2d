@@ -26,7 +26,7 @@ const Projects = () => {
       isEmoji: false,
       description: 'An Apartment Management System that streamlines tasks like rent collection, maintenance, and tenant management, improving efficiency and communication.',
       technologies: ['React', 'Firebase', 'JavaScript', 'SCSS'],
-      liveDemo: 'https://myaptt.netlify.app/login',
+      liveDemo: 'https://myapthome.netlify.app/login',
       github: 'https://github.com/clivebixby0/myapt-july8-2025-main'
     },
     {
